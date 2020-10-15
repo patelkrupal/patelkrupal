@@ -3,7 +3,7 @@
 >  💻 Sr. Software Development Engineer in Test | Automation enthusiasts | DevSecOps practitioner
 
 [![Twitter: @iam_krupal](https://img.shields.io/twitter/follow/iam_krupal?style=social)](https://twitter.com/iam_krupal)
-[![Linkedin: patelkp](https://img.shields.io/badge/-Krupal&20Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patelkp/)](https://www.linkedin.com/in/patelkp/)
+[![Linkedin: patelkp](https://img.shields.io/badge/Krupal%20Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patelkp/)](https://www.linkedin.com/in/patelkp/)
 [![GitHub: @patelkrupal](https://img.shields.io/github/followers/patelkrupal?label=follow&style=social)](https://github.com/patelkrupal)
 [![GitHub: @patelkrupal1990](https://img.shields.io/github/followers/patelkrupal1990?label=follow&style=social)](https://github.com/patelkrupal1990)
 [![Gmail: patelkrupal1990](https://img.shields.io/badge/Gmail-krupal-red)](mailto:patelkrupal1990@gmail.com)
