@@ -25,18 +25,6 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 ![Krupal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkrupal1990&hide=["issues"]&show_icons=true)
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React, Redux, Angular, RxJs, SASS, Webpack
-- **BackEnd**: Go, Node.js, Express
-- **CI/CD**: CircleCI, GitHub Actions, Azure Pipelines
-- **DevOps**: Docker, Ansible, Fastlane, Nginx, Makefile
-- **Mobile**: React Native
-- **Bots**: Botkit, Rasa
-- **UI Frameworks**: Material-UI, Bootstrap
-- **Web technologies**: HTML5, CSS3, ES7+, a11y
-- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
-- **Misc**: Git, Eslint, Prettier, Typescript
-- **Languages**: C, C++, Java
-
 - **Framework**: BDD- Cucumber, Selenium Webdriver
 - **Quality Assurance Tools**: Cypress,Capybara,WebdriverIO,TestCafe,Katalon,JMeter,Jira</li>
 - **FrontEnd**: JavaScript</li>
