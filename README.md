@@ -7,7 +7,7 @@
 [![GitHub: @patelkrupal](https://img.shields.io/github/followers/patelkrupal?label=follow&style=social)](https://github.com/patelkrupal)
 [![GitHub: @patelkrupal1990](https://img.shields.io/github/followers/patelkrupal1990?label=follow&style=social)](https://github.com/patelkrupal1990)
 [![Gmail: patelkrupal1990](https://img.shields.io/badge/Gmail-krupal-red)](mailto:patelkrupal1990@gmail.com)
-[![Outlook: krupal.patel](https://img.shields.io/badge/Gmail-krupal-red)](mailto:krupal.patel@outlook.in)
+[![Outlook: krupal.patel](https://img.shields.io/badge/Outlook-krupal-red)](mailto:krupal.patel@outlook.in)
 
 I am a Sr. Software Development Engineer in Test from : Pune, India.
 
