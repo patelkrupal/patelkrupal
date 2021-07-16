@@ -1,6 +1,6 @@
 # Hi, I'm [Krupal](https://patelkrupal.github.io)! 👋
 
->  💻 Sr. Software Development Engineer in Test | Automation enthusiasts | DevSecOps practitioner
+>  💻 Lead Engineer - Quality Assurance | Automation enthusiasts | DevSecOps practitioner
 
 [![Twitter: @iam_krupal](https://img.shields.io/twitter/follow/iam_krupal?style=social)](https://twitter.com/iam_krupal)
 [![Linkedin: patelkp](https://img.shields.io/badge/Krupal%20Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patelkp/)](https://www.linkedin.com/in/patelkp/)
