@@ -9,7 +9,7 @@
 [![Gmail: patelkrupal1990](https://img.shields.io/badge/Gmail-krupal-red)](mailto:patelkrupal1990@gmail.com)
 [![Outlook: krupal.patel](https://img.shields.io/badge/Outlook-krupal-red)](mailto:krupal.patel@outlook.in)
 
-I am a Sr. Software Development Engineer in Test from : Pune, India.
+I am a Lead SDET from : Pune, India.
 
 My passion lies in doing automation testing , framework design, and DevSecOps practioning.
 I always look to exceed expectations and am effective both working as an individual and as part of a team.
