@@ -26,9 +26,9 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ##  🎉 Skills  🎉
 - **Framework**: BDD- Cucumber, Selenium Webdriver
-- **Quality Assurance Tools**: Cypress,Capybara,WebdriverIO,TestCafe,Katalon,JMeter,Jira</li>
+- **Quality Assurance Tools**: Pytest,Cypress,Capybara,WebdriverIO,TestCafe,Katalon,JMeter,Jira</li>
 - **FrontEnd**: JavaScript</li>
-- **BackEnd**: ROR</li>
+- **BackEnd**: ROR, Python</li>
 - **CI/CD**: Jenkins, GitHub Actions</li>
 - **SVC**: Git,GitHub,Gitlab</li>
 - **DevOps**: Docker, Ansible, Nginx, WebBrick, Apache</li>
@@ -36,7 +36,7 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 - **Web technologies**: HTML5</li>
 - **Databases**: MongoDB (Tokumx), MySQL, PostgreSQL</li>
 - **Misc**: Git, Eslint</li>
-- **Languages**: C, C++, Java</li>
+- **Languages**: C, C++, Java, Python</li>
 - **IDE**: Eclipse, RubyMine, VS Code, Atom</li>
 - **Scripting**: Shell Scripting, Liquid, Ruby Scripting</li>
 
