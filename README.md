@@ -1,6 +1,6 @@
 # Hi, I'm [Krupal](https://patelkrupal.github.io)! 👋
 
->  💻 Staff Quality Engineer - I | Automation Architect | Lead Engineer - Quality Assurance | Automation enthusiasts | DevSecOps practitioner
+>  💻 QA Engineer -4Staff Quality Engineer - I | Automation Architect | Lead Engineer - Quality Assurance | Automation enthusiasts | DevSecOps practitioner
 
 [![Twitter: @iam_krupal](https://img.shields.io/twitter/follow/iam_krupal?style=social)](https://twitter.com/iam_krupal)
 [![Linkedin: patelkp](https://img.shields.io/badge/Krupal%20Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patelkp/)](https://www.linkedin.com/in/patelkp/)
@@ -26,7 +26,7 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ##  🎉 Skills  🎉
 - **Framework**: BDD- Cucumber, Selenium Webdriver
-- **Quality Assurance Tools**: Pytest,Cypress,Capybara,WebdriverIO,TestCafe,Katalon,JMeter,Jira</li>
+- **Quality Assurance Tools**: Playwright,Pytest,Cypress,Capybara,WebdriverIO,TestCafe,Selenium,Cucumber,gherkin,Katalon,JMeter,Jira</li>
 - **FrontEnd**: JavaScript</li>
 - **BackEnd**: ROR, Python</li>
 - **CI/CD**: Jenkins, GitHub Actions, Gitlab YML</li>
@@ -39,6 +39,7 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 - **Languages**: C, C++, Java, Python</li>
 - **IDE**: Pycharm , Eclipse, RubyMine, VS Code, Atom</li>
 - **Scripting**: Shell Scripting, Liquid, Ruby Scripting</li>
+- **Tech Exposure**: Veracode, Terraform, AWS, GCP, Azure</li>
 
 ---
 
