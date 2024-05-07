@@ -20,10 +20,6 @@ I enjoy learning new things and connecting with people across a range of industr
 If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 
-## ⚡ Stats
-![Krupal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkrupal&hide=["issues"]&show_icons=true)
-![Krupal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkrupal1990&hide=["issues"]&show_icons=true)
-
 ##  🎉 Skills  🎉
 - **Framework**: BDD- Cucumber, Selenium Webdriver
 - **Quality Assurance Tools**: Playwright,Pytest,Cypress,Capybara,WebdriverIO,TestCafe,Selenium,Cucumber,gherkin,Katalon,JMeter,Jira</li>
